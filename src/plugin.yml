@@ -1,0 +1,40 @@
+main: fr.slo.neroz.oiseau.Main
+name: RiseOfShinobi
+version: 1.0.0
+author: Neroz
+
+commands:
+  oiseau:
+  roll:
+  forceroll:
+    permission: ros.forceroll
+  report:
+  rumeur:
+    permission: ros.rumeur
+  annonce:
+     permission: ros.annonce
+  me:
+  
+ 
+permissions:
+  staff.chat:
+    description: Allows chat staff
+    default: false
+  staff.report:
+    description: Allows report message
+    default: false
+  ros.rumeur:
+    description: Allows rumor
+    default: false
+  ros.annonce:
+    description: Allows annonce
+    default: false
+  ros.me:
+    description: Allows view me
+    default: false
+  ros.inte:
+    default: op
+  ros.forceroll:
+    default: op
+  ros.instantoiseau:
+    default: op

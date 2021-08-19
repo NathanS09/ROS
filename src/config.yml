@@ -1,0 +1,26 @@
+metreparseconde: 35
+locations:
+  suna_oiseau:
+    x: 127.5
+    y: 63
+    z: 251.5
+  konoha_oiseau:
+    x: 127.5
+    y: 64
+    z: 251.5
+  iwa_oiseau:
+    x: 127.5
+    y: 67
+    z: 251.5
+  kumo_oiseau:
+    x: 127.5
+    y: 66
+    z: 251.5
+  kiri_oiseau:
+    x: 127.5
+    y: 65
+    z: 251.5
+  coffre_secours_oiseau:
+    x: 125.5
+    y: 64
+    z: 254.5
